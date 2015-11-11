@@ -17,9 +17,9 @@ pysam
 pybedtools
 
 
-R dependencies: \n
-R version 3.2.2 \n
-install.packages("ggplot2") \n
+R dependencies: 
+R version 3.2.2 
+install.packages("ggplot2") 
 install.packages("gridExtra")
 install.packages("tableplot")
 install.packages("RColorBrewer")
