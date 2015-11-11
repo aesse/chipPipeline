@@ -46,6 +46,8 @@ wgEncodeH1hescSP1.narrowpeak - downloaded from FactorBook. A ChIP-peak file
 
 wgEncodeHaibTfbsH1hescSp1Pcr1xAlnRep1.bam - raw read file used to call ChIP-peaks (must be indexed)
 
+Download link: 
+
 Genome - hg19
 
 -------------------------------------------------------------------------
