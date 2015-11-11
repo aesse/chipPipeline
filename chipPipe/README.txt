@@ -1,5 +1,8 @@
 README
 
+This code was used to perform analysis of ChIP-seq peaks in my masters thesis available at: 
+http://bioinf.scmb.uq.edu.au/wiki/pages/41z901H/Alexandra_Essebier.html
+
 The below commands cover how to run the code using a unix system
 
 Java dependencies:
@@ -24,8 +27,13 @@ biocLite("ChIPseeker")
 
 -------------------------------------------------------------------------
 Example data files:
-wgEncodeH1hescSP1.narrowpeak - downloaded from FactorBook. A ChIP-peak file
-wgEncodeHaibTfbsH1hescSp1Pcr1xAlnRep1.bam - raw read file used to call ChIP-peaks (must be indexed)
+
+wgEncodeH1hescSP1.narrowpeak - downloaded from FactorBook (spp, narrowpeak result). A ChIP-peak file
+
+wgEncodeHaibTfbsH1hescSp1Pcr1xAlnRep1.bam - raw read file used to call ChIP-peaks (must be indexed) (rep 1 or 2)
+
+Download link: http://v1.factorbook.org/mediawiki/index.php/SP1 - H1hesc contains all of the required files
+
 Genome - hg19
 
 -------------------------------------------------------------------------
