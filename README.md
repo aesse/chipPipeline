@@ -5,12 +5,17 @@ README
 The below commands cover how to run the code using a unix system
 
 Java dependencies:
+
 bnkit_1.8 -> java v1.8
+
 bnkit_1.7 -> java v1.7
 
 Python dependencies:
+
 pysam
+
 pybedtools
+
 
 R dependencies:
 R version 3.2.2
